@@ -1,0 +1,6 @@
+{
+  "name": "Etf-webapp",
+  "tagline": "ETF is an open source testing framework for testing geo network services and data.",
+  "body": "### ETF test framework\r\n\r\nIt has originally been developed during the ESDIN project based on a patched version of soapUI and improved with additional capabilities (through Groovy scripts). In the ESDIN project also projects for testing view, download and transformation services as well as ExM data had been developed.\r\n\r\nOutside the ELF project a test driver has been developed for the BaseX database which supports the testing of large scale XML data, including Schematron tests, geometry validation and geometric predicates -with support for spacial indexing.\r\n\r\n### Ongoing development\r\nCurrently a new ETF version 2 is developed which is used as the basis for the INSPIRE test framework.\r\n\r\n### Issue reports\r\nIssues can be reported on github [here](https://github.com/interactive-instruments/etf-webapp/issues).\r\n\r\n### Support or Contact\r\nETF is developed by [interactive instruments](http://www.interactive-instruments.de/en/about/impressum/)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
